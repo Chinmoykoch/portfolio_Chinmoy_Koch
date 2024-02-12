@@ -11,7 +11,6 @@ const INFO = {
 		github: "https://github.com/",
 		linkedin: "https://linkedin.com/",
 		instagram: "https://instagram.com/",
-		
 	},
 
 	homepage: {
@@ -21,52 +20,47 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Chinmoy Koch.",
+		title: "Hello there I’m Chinmoy Koch.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
-
-	
+			"A 2nd year BTech student at Assam Engineering College, passionate about becoming a software developer. Currently delving into full-stack development, I'm eagerly learning and refining my skills in this domain. Outside of academics, I enjoy playing computer games for relaxation and traveling to explore new cultures and perspectives. As a tech enthusiast, I stay updated with the latest advancements, driven by a belief in the transformative power of innovation."},
 
 	projects: [
 		{
 			title: "Ecommerce Website",
 			description:
 				"A Full Stack ecommerce website with payment integration, build using ReactJs for frontend and Strapi (a nodejs library) for the backend.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Chinmoykoch/ecommerce",
 		},
 
 		{
 			title: "College Cultural Fest Website",
 			description:
-				"An  website build in Nextjs, Typescript    .",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Contributed to the college cultural website for our college cultural event Pyrokinesis build in ReactJs through Vite in Frontend   .",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://pyrokinesis-2024.netlify.app/",
 		},
 
 		{
 			title: "To Do List Web ",
 			description:
 				"A FARM Stack To do list web build with Reactjs for the frontend,Mongodb for the database and FastAPI for the backend",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			logo: "https://w7.pngwing.com/pngs/141/126/png-transparent-fastapi-hd-logo.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Chinmoykoch/to-do-list-web",
 		},
 
 		{
-			title: "Movie Recommendation Website",
+			title: "Social Media Platform",
 			description:
-				"A movie recommendation web build with HTML, CSS and JS for the frontend, SQLAlchemy for the database and Flask for the backend.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Contributed to the Social Media Platform for a hackathon project build with React and ChakraUI in the frontend.",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://gig-media.netlify.app/",
 		},
-
-	
-	], 
+	],
 };
 
 export default INFO;

@@ -39,21 +39,11 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							Some Glimpses of the project 
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+						In the past year, I've been creating different projects to learn new things. It's been a journey of trying, failing, and trying again. Now, I'm excited to show what I've made in my portfolio. Each project taught me something new and helped me become better at what I do. I'm eager to share what I've learned and keep growing with more projects in the future. Learning through doing is my motto, and I can't wait to see where my next project takes me. Let's keep exploring and learning together!
 						</div>
 
 						<div className="projects-list">

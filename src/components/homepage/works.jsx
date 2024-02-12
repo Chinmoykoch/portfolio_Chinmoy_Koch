@@ -16,11 +16,11 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./xopuntech-logo.jpeg"
+								src="./xopuntech.png"
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Xopuntech</div>
+							<div className="work-title">Xopuntech India Pvt.Ltd</div>
 							<div className="work-subtitle">
 								React Intern
 							</div>
